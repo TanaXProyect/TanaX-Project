@@ -1,88 +1,90 @@
-# TanaX-Proyect
-# 💠 TanaX - La Criptomoneda Empresarial del Futuro
+# 🪙 TanaX – Criptomoneda Empresarial en Polygon
 
-**TanaX** es una criptomoneda innovadora construida sobre la red **Polygon** (MATIC), con un enfoque claro en la **adopción empresarial**, la **estabilidad económica** y la **escalabilidad masiva**. TanaX busca convertirse en el activo digital más confiable y funcional para compañías que deseen integrarse al mundo Web3 de forma transparente y segura.
-
----
-
-## 🚀 Visión y Misión
-
-- **Visión**: Crear un ecosistema financiero descentralizado y sólido, donde las empresas puedan operar sin fricciones y con total trazabilidad.
-- **Misión**: Proporcionar una criptomoneda de alto rendimiento, legalmente compatible con los marcos europeos, adaptable al comercio y con una estructura de distribución estratégica.
+**TanaX** es una criptomoneda empresarial basada en la red Polygon, diseñada para brindar soluciones financieras seguras, rápidas y descentralizadas para empresas y usuarios que buscan una alternativa transparente y eficiente al sistema monetario tradicional.
 
 ---
 
-## 📊 Tokenomics
+## 🚀 Características Principales
 
-| Asignación        | Porcentaje | Descripción                                       |
-|------------------|------------|---------------------------------------------------|
-| Creador           | 50%        | Reservado para desarrollo, alianzas y expansión   |
-| Venta pública     | 40%        | Disponibles para el mercado y nuevas integraciones|
-| Recompensas/Eventos | 10%     | Promociones, campañas y recompensas comunitarias  |
-
-- **Total Supply Inicial**: 3,000,000,000 TanaX (3 billones)
-- **Red**: Polygon (Mumbai Testnet para desarrollo)
-- **Gas Fee**: Ultra bajo (opcionalmente subsidios iniciales)
+- **🔐 Seguridad**: Contratos inteligentes seguros desplegados en la red Polygon (Mumbai).
+- **⚡ Alta escalabilidad**: Comisiones bajas y gran velocidad de transacción.
+- **📊 Economía controlada**: Tokenomics bien definidos y estrategia de crecimiento sostenible.
+- **🏛 Regulación**: Cumplimiento con el Reglamento MiCA (UE) y Ley 10/2010 de España.
+- **🔥 Burn Program**: Reducción progresiva del suministro para incentivar el valor.
+- **📈 Potencial empresarial**: Adaptado para pagos B2B, incentivos y tokenización de servicios.
 
 ---
 
-## 🛡️ Legalidad
+## 📦 Distribución Inicial
 
-TanaX cumple con:
-
-- **Reglamento MiCA** (Markets in Crypto-Assets) de la Unión Europea.
-- **Ley 10/2010** sobre la prevención del blanqueo de capitales en España.
-- Buenas prácticas de KYC/AML para futuras integraciones con CEX.
+- 🧠 **50%** en poder del creador (reserva estratégica)
+- 💸 **40%** para venta pública
+- 🎁 **10%** para recompensas, eventos y comunidad
 
 ---
 
-## 🧠 Casos de Uso
+## 🛠 Cómo probar y desplegar TanaX
 
-- Pagos empresariales B2B en segundos.
-- Incentivos internos y tokenización de servicios.
-- Sistema antifluctuación para empresas en países con inflación elevada.
-- Almacén de valor digital a medio/largo plazo.
+Puedes desplegar el contrato en la red de pruebas Mumbai usando herramientas como:
 
----
-
-## 🔐 Seguridad
-
-- Smart Contract auditado y diseñado con **protecciones anti-dumping**.
-- Uso de Vesting, límite de venta y control de supply.
-- Hosting en servidores seguros, backups constantes y monitoreo del ecosistema.
+- [Remix IDE](https://remix.ethereum.org)
+- [Alchemy](https://www.alchemy.com)
+- [Infura](https://infura.io)
 
 ---
 
-## 🌐 Comunidad y Marketing
+## 🌐 Aplicaciones Comerciales
 
-- [Reddit: r/TanaXProyect](https://reddit.com/r/TanaXProyect) → Comunidad de debates y novedades.
-- [Telegram: @TanaXGlobal](https://t.me/TanaXProyectGroup) → Noticias, soporte y comunidad.
-- [Twitter: @TanaX_Official](https://twitter.com/TanaX_Official) → Noticias rápidas y lanzamientos.
-- [GitHub](https://github.com/TanaXProyect) → Código, contratos y documentación técnica.
-
----
-
-## 🧪 Comenzar a Usar TanaX
-
-1. **Conecta tu wallet a Polygon (Mumbai)**.
-2. Visita [Remix Ethereum IDE](https://remix.ethereum.org) y despliega el Smart Contract.
-3. Añade los tokens TanaX a tu cartera manualmente (contract address).
-4. Compra/vende a través del DEX automatizado o promociones iniciales.
-
+- Transacciones B2B rápidas
+- Sistema de incentivos internos
+- Tokenización de servicios o productos
+- Protección ante la inflación como almacén de valor
 
 ---
 
-## 🤝 Contribuciones
+## 📅 Objetivo económico (0.001 € en 3 meses)
 
-Queremos que desarrolladores, diseñadores y expertos en blockchain se sumen al proyecto. Si tienes ideas o quieres colaborar, ¡haz un fork y contáctanos!
+- ✅ Estrategia de escasez inicial
+- ✅ Marketing digital en comunidades cripto
+- ✅ Alianzas con pymes y usuarios estratégicos
+- ✅ Programas de recompra y quema de tokens
+
+---
+
+## 🤖 Contrato inteligente
+
+El contrato incluye:
+
+- 🔒 Vesting de 7 días para cada compra
+- 📉 Límite de venta del 10% de los tokens por usuario
+- 🚫 Protección contra venta masiva simultánea
+- 💰 Gas Fee muy bajo optimizado para Polygon Mumbai
+
+(Repositorio del contrato disponible próximamente)
+
+---
+
+## 🌍 Redes Sociales Oficiales
+
+- 🐦 **Twitter (X)**: [x.com/TanaXGroup](https://x.com/TanaXGroup)
+- 👽 **Reddit**: [reddit.com/r/TanaX](https://www.reddit.com/r/TanaX/)
+- 📸 **Instagram**: [instagram.com/tanaxgroup](https://www.instagram.com/tanaxgroup/)
+- 💬 **Telegram**: [t.me/TanaXProyectGroup](https://t.me/TanaXProyectGroup)
 
 ---
 
 ## 📬 Contacto
 
-- 💌 Email: contactanaxproject@gmail.com
-- 📞 Telegram directo: @TanaxProyect
+📩 Para propuestas comerciales, inversión o colaboración:
+
+**contactanaxproject@gmail.com**
 
 ---
 
-> **TanaX: Revoluciona la forma en que las empresas interactúan con el dinero digital.**
+## 🧩 Licencia
+
+Este proyecto se publica bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
+
+---
+
+### ⚠️ Este proyecto aún está en fase inicial. ¡Toda colaboración y feedback es bienvenida!
