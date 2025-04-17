@@ -80,7 +80,7 @@ Queremos que desarrolladores, diseñadores y expertos en blockchain se sumen al 
 
 ## 📬 Contacto
 
-- 💌 Email: contactanax@gmail.com
+- 💌 Email: contactanaxproject@gmail.com
 - 📞 Telegram directo: @TanaxProyect
 
 ---
